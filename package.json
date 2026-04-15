@@ -1,0 +1,14 @@
+{
+  "name": "search-index-assessment",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.1",
+    "typescript": "^5.8.3"
+  }
+}
